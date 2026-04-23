@@ -1,5 +1,0 @@
-if (MinsaProject == True){
-  print("Proyectos realizados para el Ministerio de Salud")
-    } else print ("Loading...");
-
-  
